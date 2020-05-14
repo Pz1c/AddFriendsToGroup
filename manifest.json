@@ -1,0 +1,11 @@
+{
+  "name": "Add my friends",
+  "version": "0.1",
+  "description": "FB Extension add my friends",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["storage", "activeTab", "tabs",  "http://*/*",  "https://*/*"],
+  "manifest_version": 2
+}
