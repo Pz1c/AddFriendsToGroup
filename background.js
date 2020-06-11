@@ -10,6 +10,7 @@ var fake_tab_id;
 chrome.runtime.onInstalled.addListener(function() {
     console.log("Installed");
     //chrome.tabs.create({ url: 'https://visk.in.ua/?close=1' });
+    
 });
 
 chrome.runtime.onMessage.addListener(

@@ -1,6 +1,6 @@
 {
-  "name": "Add my friends",
-  "version": "0.1",
+  "name": "Get Friends",
+  "version": "0.2",
   "description": "FB Extension add my friends",
   "background": {
     "scripts": ["background.js"],
