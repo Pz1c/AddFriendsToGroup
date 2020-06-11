@@ -6,6 +6,6 @@
     "scripts": ["background.js"],
     "persistent": false
   },
-  "permissions": ["storage", "activeTab", "tabs",  "http://*/*",  "https://*/*"],
+  "permissions": ["storage", "unlimitedStorage", "activeTab", "tabs",  "http://*/*",  "https://*/*"],
   "manifest_version": 2
 }
